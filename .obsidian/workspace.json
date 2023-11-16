@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "36f62d1e2d6f9715",
+    "type": "split",
+    "children": [
+      {
+        "id": "50f855e2c9064510",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "867f2b5c776e8040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "类型转换.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f778cf438fe9daea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "汇编语句.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0e9d102cc346f07",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d72d0ffc467a426",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e590cd0d17ad2424",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09871799dc58b023",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c8f303416c154ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b71488e41802a93",
+    "type": "split",
+    "children": [
+      {
+        "id": "710506c72c757b8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d62d17b94db6482",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "类型转换.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fbd6f8599dc5e4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "类型转换.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5d7837097098606",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2627e35f46e2552e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "类型转换.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "867f2b5c776e8040",
+  "lastOpenFiles": [
+    "ics习题.md",
+    "指针.md",
+    "深入了解计算机系统.md",
+    "函数调用的汇编原理.md",
+    "缓冲区溢出.md",
+    "汇编.md",
+    "汇编语句.md",
+    "计算机编译程序的原理.md",
+    "类型转换.md",
+    "位运算.md",
+    "gdb常用命令总结.md",
+    "对齐.md",
+    "attachment/屏幕截图 2023-05-15 151329.png",
+    "attachment/Pasted image 20231116133351.png",
+    "attachment/Pasted image 20231116133037.png",
+    "attachment/Pasted image 20231116130913.png",
+    "attachment/Pasted image 20231115153459.png",
+    "attachment/Pasted image 20231115143453.png",
+    "attachment/Pasted image 20231115142614.png",
+    "attachment/Pasted image 20231115142239.png",
+    "attachment/Pasted image 20231115142201.png",
+    "attachment/Pasted image 20231115140626.png",
+    "attachment/lab1_sol.pdf",
+    "attachment/EXE4_sol.pdf",
+    "attachment/EXE4.pdf",
+    "attachment/EXE4-sildes.pdf",
+    "attachment/EXE3-finished.pdf",
+    "attachment/EXE2_sol.pdf",
+    "attachment/EXE1_sol.pdf",
+    "attachment"
+  ]
+}
