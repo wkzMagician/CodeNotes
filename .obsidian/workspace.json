@@ -4,36 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "50f855e2c9064510",
+        "id": "1e659a63307e3724",
         "type": "tabs",
         "children": [
           {
-            "id": "867f2b5c776e8040",
+            "id": "06d6101d6936c073",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "类型转换.md",
-                "mode": "preview",
+                "file": "操作系统详解.md",
+                "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "f778cf438fe9daea",
+            "id": "abb3bafccb5a9e8a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "4894fafe91fc61e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "汇编语句.md",
+                "file": "异常处理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7f643e002afbd9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统如何访问外部设备.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#c",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,12 +101,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8b71488e41802a93",
@@ -100,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "类型转换.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "类型转换.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "类型转换.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,20 +178,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "867f2b5c776e8040",
+  "active": "abb3bafccb5a9e8a",
   "lastOpenFiles": [
-    "ics习题.md",
-    "指针.md",
+    "异常处理.md",
+    "操作系统如何访问外部设备.md",
     "深入了解计算机系统.md",
-    "函数调用的汇编原理.md",
-    "缓冲区溢出.md",
-    "汇编.md",
-    "汇编语句.md",
-    "计算机编译程序的原理.md",
-    "类型转换.md",
-    "位运算.md",
+    "Windows使用.md",
+    "Union的用法.md",
+    "printf用法总结.md",
+    "Markdown.md",
+    "Jekyll + Github Pages.md",
+    "ics习题.md",
     "gdb常用命令总结.md",
+    "指针.md",
+    "操作系统详解.md",
+    "位运算.md",
+    "图论(基本概念).md",
+    "图论(道路与回路).md",
+    "类型转换.md",
+    "计算机编译程序的原理.md",
+    "汇编语句.md",
+    "汇编.md",
+    "缓冲区溢出.md",
+    "函数调用的汇编原理.md",
     "对齐.md",
+    "操作系统有什么用.md",
+    "[.md",
+    "进程.md",
     "attachment/屏幕截图 2023-05-15 151329.png",
     "attachment/Pasted image 20231116133351.png",
     "attachment/Pasted image 20231116133037.png",
